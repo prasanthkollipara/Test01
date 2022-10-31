@@ -1,4 +1,4 @@
-# Terraform Cloud Module for Instance and VPC creation
+# Terraform Cloud Module for Instance and VPC creati0on
 - Create ssh key for instance to login from our machine in AWS console
 - Create VPC
 - Create Subnets (Public and Private)
